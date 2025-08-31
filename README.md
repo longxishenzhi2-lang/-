@@ -17,4 +17,4 @@
 ２，年度ごとの社会保険料合計を可視化する
 
 ３，グラフの傾向を確認し、社会的要因と関連付けて考察する
-[社会保険料推移グラフ](syakaihoken_graph_png.png)
+[社会保険料推移グラフ](syakaihoken_graph_png(1).png)
