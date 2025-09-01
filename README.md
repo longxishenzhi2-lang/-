@@ -18,4 +18,4 @@
 
 ３，グラフの傾向を確認し、社会的要因と関連付けて考察する
 
-[syakaihokennryousuiigurahu](portfolio_graph.png)
+[syakaihokenryousuiigurahu](portfolio_graph.png)
