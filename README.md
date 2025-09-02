@@ -20,5 +20,5 @@
 
 # 日本社会保険料の推移分析
 
-[保険料の推移グラフ](portfolio_graph.png)
+![保険料の推移グラフ](portfolio_graph.png)
 
