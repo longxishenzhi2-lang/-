@@ -17,9 +17,11 @@
 ３，グラフの傾向を確認し、社会的要因と関連付けて考察する
 
 ＃＃　実行手順
-1. Google Colabを開く
-2. このリポジトリの`portfolio.ipynb`をアップロードする
-3. 上から順番にセルを実行する
+1. Google Colabを開く(https://colab.research.google.com/)
+2. 
+3. このリポジトリの`portfolio.ipynb`をアップロードする
+4. 
+5. 上から順番にセルを実行する
 
 
 # 日本社会保険料の推移分析
