@@ -1,0 +1,5 @@
+##必要ライブラリ
+：pandas
+：matplotlib
+：seaborn
+：openpyxl
