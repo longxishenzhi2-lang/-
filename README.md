@@ -2,11 +2,6 @@
 
 厚生労働省の統計データを用いて、日本の社会保険料の長期的な推移を分析する。 社会保険制度の持続が可能か、少子高齢化の影響について考察することを目的とする。
 
-＃＃必要ライブラリ
-以下のコマンドでまとめてインストールできます：
-
-```bash
-pip install -r requirements.txt
 
 
 ＃＃  データ出典
@@ -32,4 +27,11 @@ pip install -r requirements.txt
 # 日本社会保険料の推移分析
 
 ![保険料の推移グラフ](portfolio_graph.png)
+
+＃＃必要ライブラリ
+以下のコマンドでまとめてインストールできます：
+
+```bash
+pip install -r requirements.txt
+
 
